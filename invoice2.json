@@ -13,7 +13,6 @@
   "currency": "USD",
   "currency_symbol": "$",
   "pickup_center": false,
-  "recipient_email": "email@email.com",
   "distributor_info": {
     "name": "Lawrence 467",
     "address": "2400 Kresge Road",

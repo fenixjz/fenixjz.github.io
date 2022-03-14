@@ -10,6 +10,7 @@
   "invoice_number": "21158674",
   "shipping_method": "Continental Shipping",
   "country": "US",
+  "language": "EN",
   "currency": "USD",
   "currency_symbol": "$",
   "pickup_center": false,
